@@ -268,7 +268,7 @@ function startReeling() {
         localStorage.setItem('saldo', curSaldo);
         fishCount--
         localStorage.setItem('fishCount', fishCount);
-        alert('Dapat ikan, mancing mania? Mantap!!!!')
+        alert('mantapp lee dapat ikann lele, janlup bagi ke aku yh ikannya kalau dh matang 😘😍🥰')
 
       }
 
